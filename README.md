@@ -2,7 +2,7 @@
 
 **🏢 Organization:** DevelopersHub Corporation  
 **📅 Submission Date:** 30th June 2025  
-**👨‍🎓 Submitted by:** Sama San (f2021065011)  
+**👨‍🎓 Submitted by:** Shariff Mehmood (f2021065011)  
 **📂 Repository:** AI_ML_Internship_Tasks
 
 ---
